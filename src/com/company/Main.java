@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(comparison(15, -3));
+        System.out.println(comparison(15, -15));
         isPositiveVoid(19);
         System.out.println(whatIsYear(1400));
 	// write your code here
